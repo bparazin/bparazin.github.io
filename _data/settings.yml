@@ -12,7 +12,10 @@ menu:
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 research:
-- {Subject: 'Ice Sheet-Sea Level interactions', Description: 'I research how ice sheets and sea level interact with each other', image: 'assets/img/fingerprint.jpg', alt: 'The sea level fingerprint associated with the melting of the West Antarctic Ice Sheet', url: 'sea-level'}
+- {Subject: 'Ice Sheet-Sea Level interactions', Description: 'This page is still under construction! I research how ice sheets and sea level interact with each other', image: 'assets/img/fingerprint.jpg', alt: 'The sea level fingerprint associated with the melting of the West Antarctic Ice Sheet', url: 'sea-level'}
+- {Subject: 'Ice Sheet-Climate interactions', Description: 'Ice sheets also affect climate', image: 'assets/img/lapse_and_albedo.jpg', alt: 'A figure illustrating the effects ice sheets have on their local climate through altering local elevation and albedo', url: 'climate'}
+- {Subject: 'Machine Learning and emulation', Description: 'Models. They take so long to run. What if we emulate them instead?', image: 'assets/img/GPR_math', alt: 'The math behind Gaussian process emulation', url: 'emulation'}
+- {Subject: 'Dynamic topography', Description: 'Dynamic topography is important for long-term sea level rise', image: 'assets/img/richards2023_dynamic_topo', alt: 'A figure illustrating the present-day predicted dynamic topography signal', url: 'dynamic-topography'}
 
 # courses:
 # - {name: 'Vector Calculus', url: 'vector-calculus'}
