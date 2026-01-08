@@ -11,6 +11,9 @@ menu:
 # - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
+research:
+- {Subject: 'Ice Sheet-Sea Level interactions', Description: 'I research how ice sheets and sea level interact with each other', image: 'assets/img/fingerprint.jpg', url: 'sea-level'}
+
 # courses:
 # - {name: 'Vector Calculus', url: 'vector-calculus'}
 # - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
