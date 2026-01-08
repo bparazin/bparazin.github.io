@@ -12,7 +12,7 @@ menu:
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 research:
-- {Subject: 'Ice Sheet-Sea Level interactions', Description: 'I research how ice sheets and sea level interact with each other', image: 'assets/img/fingerprint.jpg', url: 'sea-level'}
+- {Subject: 'Ice Sheet-Sea Level interactions', Description: 'I research how ice sheets and sea level interact with each other', image: 'assets/img/fingerprint.jpg', alt: 'The sea level fingerprint associated with the melting of the West Antarctic Ice Sheet', url: 'sea-level'}
 
 # courses:
 # - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -22,7 +22,7 @@ research:
 social:
 - {icon: 'github', link: 'https://github.com/bparazin'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/bparazin/'}
-- {icon: 'orcid', linl: 'https://orcid.org/0000-0002-3155-0385'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-3155-0385'}
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
