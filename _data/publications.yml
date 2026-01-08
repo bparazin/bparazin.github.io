@@ -1,10 +1,11 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Ice Sheets Without Dynamic Topography. B. Parazin, Natalya Gomez, Fred Richards, Mark Hoggard, Sophie Coulson, Jerry Mitrovica', url: '/publications/dynamic topograpy.pdf'}
+- {name: 'Foraging with MUSHROOMS: a Mixed-integer linear programming scheduler for multimessenger target of opportunity searches with the Zwicky Transiet Facility. B. Parazin, Michael Coughlin, Leo Singer, Vaidei Gupta, Shreya Anand', url: '/publications/mushrooms.pdf'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'Ice Sheets Without Dynamic Topography. B. Parazin, Natalya Gomez, Fred Richards, Mark Hoggard, Sophie Coulson, Jerry Mitrovica', url: '/publications/dynamic topograpy.pdf'}
+- {name: 'Missippi River low-flows: context, causes and future projections. Sam Munoz, Sylvia Dee, Xinyue Luo, M Rezaul Haider, Michelle O\'Donnell, B. Parazin, Jonathan Remo', url: '/publications/low flows.pdf'}
+- {name: 'Contrasting ocean-atmosphere dynamics mediate flood hazard across the Mississippi River basin. Sam Munoz, Brynnydd Hamilton, B. Parazin', url: '/publications/contrasting.pdf'}
+- {name: 'Foraging with MUSHROOMS: a Mixed-integer linear programming scheduler for multimessenger target of opportunity searches with the Zwicky Transiet Facility. B. Parazin, Michael Coughlin, Leo Singer, Vaidei Gupta, Shreya Anand', url: '/publications/mushrooms.pdf'}
+- {name: 'Target-of-opportunity observations of gravitational-wave events with Vera C. Rubin observatory. Igor Andreoni, Raffaella Margutti, Om Sharan Salafia, B. Parazin, et al.', url: '/publications/Rubin.pdf'}
+
