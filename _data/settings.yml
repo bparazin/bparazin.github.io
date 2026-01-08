@@ -1,8 +1,8 @@
 menu:
-- {name: 'research', url: '/research'}
-- {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Research', url: '/research'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 # - {name: 'people', url: '/people'}
 # - {name: 'courses', url: '/courses'}
 
@@ -22,6 +22,7 @@ research:
 social:
 - {icon: 'github', link: 'https://github.com/bparazin'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/bparazin/'}
+- {icon: 'orcid', linl: 'https://orcid.org/0000-0002-3155-0385'}
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
