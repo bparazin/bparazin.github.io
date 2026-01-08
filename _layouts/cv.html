@@ -18,6 +18,41 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Selected Honors and Awards</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.honors-awards %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Service and Leadership</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.service-leadership %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Teaching</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.teaching %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <h4 href="_data/cv/full_cv.pdf">Download full CV</h4>
+
     <!-- <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Academic Experience</h4>
