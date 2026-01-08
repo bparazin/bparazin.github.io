@@ -26,4 +26,4 @@ social:
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
 contacts:
-- {name: 'B. Parazin', title: 'PhD Candidate', department: 'Earth & Planetary Science', institution: 'McGill University', institution_address: '3450 Rue University, Montréal, QC H3A 2A7', phone: '+1 (781) 915-8955', email: 'Bc.parazin@mail.mcgill.ca', office: 'Frank Dawson Adams 311', image: 'assets/img/glacier small.jpg'}
+- {name: 'B. Parazin', title: 'PhD Candidate', department: 'Earth & Planetary Science', institution: 'McGill University', institution_address: '3450 Rue University, Montréal, QC H3A 2A7', phone: '+1 (781) 915-8955', email: 'Bc.parazin@mail.mcgill.ca', office: 'Frank Dawson Adams 311', image: 'assets/img/Glacier_small.jpg'}
